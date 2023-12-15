@@ -11,3 +11,7 @@ Also here we can do RELEASES, where we can without any problems upload builded a
 ## Warning!
 
 All Android releases will be like "Stable", all iOS - "Beta"!
+
+## Links
+
+[Project's website](https://altamino.top).
