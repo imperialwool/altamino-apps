@@ -12,6 +12,8 @@ Also here we can do RELEASES, where we can without any problems upload builded a
 
 All Android releases will be like "Stable", all iOS - "Beta"!
 
+Also Android releases support only armeabi-v7a for now!
+
 ## Links
 
 [Project's website](https://altamino.top).
