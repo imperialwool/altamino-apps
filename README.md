@@ -14,6 +14,11 @@ All Android releases will be like "Stable", all iOS - "Beta"!
 
 Also Android releases support only armeabi-v7a for now!
 
+## Requirements
+
+Apple devices: iOS 13.0+
+Android: 6.0+, armeabi-v7a support (check this using Aida64 for Android).
+
 ## Links
 
 [Project's website](https://altamino.top).
