@@ -20,7 +20,7 @@ Apple devices: iOS 13.0+
 
 Android: 6.0+, armeabi-v7a support (check this using Aida64 for Android).
 
-This is TRUE reqs of app btw. :D
+This is TRUE reqs of app btw. But android one doesnt need google services :D
 
 ## Links
 
