@@ -12,11 +12,11 @@ All Android releases will be like "Stable", all iOS - "Beta"!
 
 Also Android releases support only armeabi-v7a for now!
 
-For now here is no iOS builds bcause crapple forcing to use mac for their xcode and modifying original app. Until it unresolved, srry n8s, no iOS builds.
+For now here is no iOS builds ~~bcause crapple forcing to use mac for their xcode and modifying original app~~.
 
 ## Requirements
 
-Apple devices: iOS 13.0+
+Apple devices: iOS 13.0+, TrollStore.
 
 Android: 6.0+, armeabi-v7a support (check this using Aida64 for Android).
 
