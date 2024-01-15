@@ -14,7 +14,7 @@ Also Android releases support only armeabi-v7a for now!
 
 ## Requirements
 
-Apple devices: iOS 13.0+, TrollStore.
+Apple devices: iOS 14.0 - 16.6.1, 16.7 RC (20H18), 17.0; TrollStore.
 
 Android: 6.0+, armeabi-v7a support (check this using Aida64 for Android).
 
