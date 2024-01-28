@@ -2,7 +2,7 @@
 
 The main server (will be) stopped on February 1, but you have the sources. You can build everything yourself.
 
-Alas, the source code of the app is lost, so you can decompile the app yourself via JADX and apktool.
+Alas, the source code of the app is lost, so you can decompile the app yourself via JADX and apktool. Apple users, good luck...
 
 [Source code of server,](https://github.com/imperialwool/altamino)
 
