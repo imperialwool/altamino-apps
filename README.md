@@ -1,5 +1,11 @@
 # AltAmino Applications
 
+The main server (will be) stopped on February 1, but you have the sources. You can build everything yourself.
+
+Alas, the source code of the app is lost, so you can decompile the app yourself via JADX and apktool.
+
+[Source code of server,](https://github.com/imperialwool/altamino)
+
 ## Why we have repo for this?
 
 Github allows make releases of apps without any pain, so I choosed gh ofc.
