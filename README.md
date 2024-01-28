@@ -6,12 +6,6 @@ Alas, the source code of the app is lost, so you can decompile the app yourself 
 
 [Source code of server,](https://github.com/imperialwool/altamino)
 
-## Why we have repo for this?
-
-Github allows make releases of apps without any pain, so I choosed gh ofc.
-
-Also maybe I will upload here source code, i dunno. I'm planning to open source code of servers, so maybe open source of app will be reasonable.
-
 ## Warning!
 
 All Android releases will be like "Stable", all iOS - "Beta"!
