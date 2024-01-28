@@ -4,8 +4,6 @@ The main server (will be) stopped on February 1, but you have the sources. You c
 
 Alas, the source code of the app is lost, so you can decompile the app yourself via JADX and apktool. Apple users, good luck...
 
-[Source code of server,](https://github.com/imperialwool/altamino)
-
 ## Warning!
 
 All Android releases will be like "Stable", all iOS - "Beta"!
@@ -22,4 +20,6 @@ This is TRUE reqs of app btw. But android one doesnt need google services :D
 
 ## Links
 
-[Project's website](https://altamino.top).
+[Project's website](https://altamino.top)
+
+[Source code of server,](https://github.com/imperialwool/altamino)
