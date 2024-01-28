@@ -22,4 +22,4 @@ This is TRUE reqs of app btw. But android one doesnt need google services :D
 
 [Project's website](https://altamino.top)
 
-[Source code of server,](https://github.com/imperialwool/altamino)
+[Source code of server](https://github.com/imperialwool/altamino)
