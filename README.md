@@ -1,8 +1,8 @@
 # AltAmino Applications
 
-The main server (will be) stopped on February 1, but you have the sources. You can build everything yourself.
+The main server stopped on January 30th, but you have the sources. You can build everything yourself.
 
-Alas, the source code of the app is lost, so you can decompile the app yourself via JADX and apktool. Apple users, good luck...
+Also I lost source code of the app, ...but you can decompile the app yourself via JADX and apktool. Apple users, good luck... :D
 
 ## Warning!
 
