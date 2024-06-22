@@ -1,9 +1,5 @@
 # AltAmino Applications
 
-The main server stopped on January 30th, but you have the sources. You can build everything yourself.
-
-Also I lost source code of the app, ...but you can decompile the app yourself via JADX and apktool. Apple users, good luck... :D
-
 ## Warning!
 
 All Android releases will be like "Stable", all iOS - "Beta"!
